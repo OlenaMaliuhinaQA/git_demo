@@ -8,9 +8,4 @@ Shield by shield
 Side by side
 We are watching into destiny
 
-March as one
-Don't look back
-Oden's sons
-Test! - in the feature branch
-
-for tag only
+test text for feature2
